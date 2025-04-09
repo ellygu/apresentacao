@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+     ;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    align-items:center ;
+    justify-content:center ;
+    margin: auto;
+
+}
+h1{
+ 
+        text-align: center; 
+        font-size: 28px; 
+        color:black ; 
+        font-family: Arial, sans-serif;
+        margin-top: 20px; 
+    }
+    
+    p {
+        font-size: 16px; 
+        color: #444; 
+        font-family: Arial, sans-serif; 
+        line-height: 1.6; 
+        text-align: justify;
+        margin: 10px 0;
+        padding:10px;
+    }
+    ul{
+            list-style-type: disc; 
+            padding-left: 20px;
+            font-size: 16px;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+        li a:hover{
+            color: rgb(49, 18, 18);
+        }
+        
+    
+    
